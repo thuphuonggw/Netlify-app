@@ -1,0 +1,16 @@
+body {
+    margin: 10%;
+    padding: 10%;
+    font-size: large;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    color: rgb(204, 69, 92);
+}
+
+p {
+    color: steelblue;
+}
